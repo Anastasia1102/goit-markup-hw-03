@@ -75,6 +75,7 @@ ul {
   text-transform: uppercase;
   display: flex;
   margin-right: 76px;
+  padding: 24px 0;
 }
 
 .header-logo .accent {
@@ -90,7 +91,6 @@ ul {
 .header-menu {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 
 .header-navigation {
