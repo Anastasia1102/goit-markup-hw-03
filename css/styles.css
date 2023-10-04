@@ -62,7 +62,6 @@ ul {
 .header-container {
   display: flex;
   align-items: center;
-  gap: 332px;
 }
 
 .header-logo {
@@ -110,6 +109,7 @@ ul {
 
 .header-contacts {
   font-style: normal;
+  margin: 0 0 0 auto;
 }
 
 .header-contacts-list {
